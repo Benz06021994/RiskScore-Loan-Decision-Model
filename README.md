@@ -5,7 +5,7 @@
 ---
 
 ## Data Source
-- [Kaggle Dataset](https://www.kaggle.com/datasets/rizqi01/ps4e9-original-data-loan-approval-prediction)
+- [Credit Risk Loan Approval Dataset](https://www.kaggle.com/datasets/rizqi01/ps4e9-original-data-loan-approval-prediction)
 
 ---
 
